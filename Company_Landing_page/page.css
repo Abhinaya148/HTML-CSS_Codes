@@ -1,0 +1,181 @@
+body{
+    background:black url("/imgbr.jpg") no-repeat fixed center;
+    }
+
+#logo{
+    width:100px;
+    height:200px;
+}
+
+
+h1 {
+    flex-grow: 1; /* Allows the company name to expand and take up available space */
+    text-align: left; /* Center-align the company name */
+    margin: 0; /* Remove any default margin */
+    font-size: 520%;
+    color:#A5CBC0 ;
+}
+
+
+#logo {
+    max-width: 100px; /* Set a max width for the logo image */
+    height: auto; /* Maintain aspect ratio */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: black; /* Replace "your-color" with your desired background color code or name */
+    position: relative;
+}
+
+
+/* header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #your-color; /* Replace "your-color" with your desired background color code or name */
+ */
+
+nav {
+    background-color: black  ;
+    display: inline-block;
+    text-align: center; /* Optional: To center the links horizontally */
+    justify-content: center;
+
+}
+
+.navbar{
+    background-color: #050505;
+}
+
+nav a {
+    justify-content: center;
+    display: inline-block; /* Display the links as inline-block elements */
+    text-decoration: none;
+    padding: 10px 20px; /* Add padding for spacing */
+    margin: 0 5px; /* Add margin for spacing between links */
+    color: #A5CBC0 ; /* Optional: Text color for the links */
+    border-radius: 5px; /* Optional: Rounded corners for the links */
+}
+
+
+.searchJobs {
+    display: flex;
+    align-items: center;
+    background-color: white; 
+    text-align: center;
+    justify-content: center;
+    /* margin-left: 30%; */
+    /* margin-right: 30%; */
+}
+
+.searchJobs p {
+    margin-right: 10px; /* Add spacing between the <p> and <textarea> */
+    padding: 3% 0%;
+}
+
+.ConImg {
+        display: flex;
+        /* flex-direction: row; */
+        align-items: center; /* Vertically align content */
+        /* max-width: 800px; */
+        border: 1px solid #A5CBC0;
+        background-color: white;
+        padding: 5% 0%;     
+        width:100%;
+        justify-content: center;
+}
+
+
+.Par {
+    flex: 1;
+    padding: 20px;
+}
+
+.Pic {
+    flex: 1;
+    text-align: center;
+}
+
+.Pic img {
+    width:170px;
+    height:200px
+    
+}
+.video-container {
+    position: relative;
+    display: inline-block;
+}
+
+video {
+    width: 100%;
+    display: block;
+}
+
+.new-headline {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    padding: 10px;
+    white-space: nowrap;
+    z-index: 1; /* Ensure the text is on top of the video */
+    color: #050505;
+}
+
+#contentinfo {
+    /* background-color: #A5CBC0; Background color for the footer */
+    padding: 20px 0; /* Add padding to the top and bottom of the footer */
+    text-align: center; /* Center-align the content in the footer */
+}
+
+.footer-wrapper {
+    /* max-width: 1200px; Set a maximum width for the footer content */
+    /* margin: 0 auto; Center-align the footer content horizontally */
+    /* padding: 1% 0%; Add padding to the sides of the footer content */
+    background-color: white;
+}
+
+h2 {
+    margin-top: 0; /* Remove top margin for h2 headings */
+}
+
+.social-media ul,
+.sitemap-links ul {
+    list-style: none; /* Remove bullet points from the lists */
+    padding: 0; /* Remove default padding */
+    color: blue;
+}
+
+.social-media li,
+.sitemap-links li {
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 15px; /* Add spacing between list items */
+}
+
+.sitemap-links li:last-child {
+    margin-right: 0; /* Remove margin from the last item in the sitemap links */
+}
+
+a {
+    text-decoration: none; /* Remove underlines from links */
+    /* color: #333; Set the link color */
+}
+
+.copyright {
+    margin-top: 20px; /* Add spacing between the sitemap links and the copyright text */
+    font-size: 14px; /* Adjust the font size for the copyright text */
+}
+
+
+
+
+
+
+
+

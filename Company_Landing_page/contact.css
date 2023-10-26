@@ -1,0 +1,26 @@
+h2{
+    font-size: 50px;
+    color: #A5CBC0;
+}
+.contact{
+background-color: white;
+border: 5px;
+border-color: #A5CBC0;
+justify-content: center;
+text-align: center;
+padding:5%;
+}
+
+.foot{
+    background-color: white;
+    color: black;
+    justify-content: center;
+    padding:2%;
+    text-align: center;
+    border: 2px #A5CBC0;
+}
+
+.sm img{
+    width: 70px;
+    height:70px
+}
