@@ -1,0 +1,35 @@
+<!DOCTYPE html5>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Creating a Profile</title>
+</head>
+<body>
+<main>
+<h1 style=color:"red">Profile</h1>
+<section>
+<h2>Personal Details</h2>
+<p>Name: Sura Abhinaya</p>
+<p>Age=21</p>
+<p>Mobile no=9390687360</p>
+<p>Location=Hyderabad</p>
+</section>
+
+<section>
+<h2>Education Details</h2>
+<p>Highest Qualification=B.Tech</p>
+<p>Stream=Information Technology</p>
+<p>College Name=VBIT</p>
+<p>CGPA=7.50</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li>C</li>
+<li>JAVA</li>
+<li>SQL</li>
+<li>HTML</li>
+</ul>
+</body>
+</html>
