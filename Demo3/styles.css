@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.container{
+    /* width:60%; */
+    height:30%;
+}
+.box{
+    display: flex;
+    background-color: black;
+    width:40%;
+    height:69%;
+    bo
+}
+.green{
+    background-color:green;
+    width:100%;
+}
+.red{
+    background-color:red;
+    width:100%;
+}
+.pink{
+    background-color:pink;
+    width:100%;
+}
+.gray{
+    background-color:gray;
+    width:100%;
+}
