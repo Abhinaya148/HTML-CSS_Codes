@@ -1,0 +1,36 @@
+<!DOCTYPE html5>
+<html lang="en">
+<head>
+<title>Restaurants to visist</title>
+</head>
+<body>
+<main>
+<h1> Displayng Famous Restaurants....</h1>
+<section>
+<h2>Restaurants images</h2>
+<!-- TODO: Add link to the restaurants -->
+<p> To see more restaurants <a href="https://www.bing.com/images/search?view=detailV2&ccid=oetnNwsc&id=8C2B8D634093A0C28F80657941CA9663B6310354&thid=OIP.oetnNwsceeQQo36_Qz27MQHaE8&mediaurl=https%3A%2F%2Fi0.wp.com%2Fwww.designlike.com%2Fwp-content%2Fuploads%2F2018%2F03%2Frestaurant-1948732_1920.jpg&exph=1281&expw=1920&q=restaurant+images&simid=608022294274441422&form=IRPRST&ck=EC1052F1EF806F2C043A153AAD392DAB&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11">click here</a>in this page</p>
+a href="https://www.bing.com/images/search?view=detailV2&ccid=oetnNwsc&id=8C2B8D634093A0C28F80657941CA9663B6310354&thid=OIP.oetnNwsceeQQo36_Qz27MQHaE8&mediaurl=https%3A%2F%2Fi0.wp.com%2Fwww.designlike.com%2Fwp-content%2Fuploads%2F2018%2F03%2Frestaurant-1948732_1920.jpg&exph=1281&expw=1920&q=restaurant+images&simid=608022294274441422&form=IRPRST&ck=EC1052F1EF806F2C043A153AAD392DAB&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11" img src="https://www.bing.com/images/search?view=detailV2&ccid=oetnNwsc&id=8C2B8D634093A0C28F80657941CA9663B6310354&thid=OIP.oetnNwsceeQQo36_Qz27MQHaE8&mediaurl=https%3A%2F%2Fi0.wp.com%2Fwww.designlike.com%2Fwp-content%2Fuploads%2F2018%2F03%2Frestaurant-1948732_1920.jpg&exph=1281&expw=1920&q=restaurant+images&simid=608022294274441422&form=IRPRST&ck=EC1052F1EF806F2C043A153AAD392DAB&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11"
+</section>
+<section>
+<h2> Restaurants list</h2>
+<ul>
+<li>Kritunga</li>
+<li>Tulips</li>
+<li>Paradise</li>
+<li>Bawarchi</li>
+<li>Lucky</li>
+<li>swagath</li>
+<li>Novotel</li>
+</ul>
+<figure>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=oetnNwsc&id=8C2B8D634093A0C28F80657941CA9663B6310354&thid=OIP.oetnNwsceeQQo36_Qz27MQHaE8&mediaurl=https%3A%2F%2Fi0.wp.com%2Fwww.designlike.com%2Fwp-content%2Fuploads%2F2018%2F03%2Frestaurant-1948732_1920.jpg&exph=1281&expw=1920&q=restaurant+images&simid=608022294274441422&form=IRPRST&ck=EC1052F1EF806F2C043A153AAD392DAB&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11"alt="Restaurant images to check">
+<figcaption>Famous<em>restaurants for good food</em> to visit</figcaption>
+<figure>
+<h4> Top restayrants to visit</h4>
+<ol>
+<li>Barbecue nation</li>
+<li>Bawarchi</li>
+<li>swagath</li>
+<li>Novotel</li>
+</ol>
